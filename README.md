@@ -18,3 +18,14 @@ The competition categorized EEG patterns into six interest areas: seizure (SZ), 
 This is a example of the data used in this notebook 
 
 ![Example Image](ressources/exmaple_input.png)
+
+
+## Project Contribution and Impact
+Through my work in this competition, I engaged in creating a model using the Mix Transformer architecture that not only meets the technical challenge of classifying complex EEG data but also holds the promise of making a tangible difference in patient care and medical research. The Mix Transformer (MiT), as presented in "SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers"  Xieetal.,2021, served as the backbone of our approach. This choice was motivated by the architecture's efficiency and effectiveness in handling the spatial hierarchies inherent in EEG data.
+
+The algorithms developed and insights gained have the potential to streamline EEG analysis, supporting medical professionals in their decision-making processes and aiding researchers dedicated to the fight against seizures and brain damage. By leveraging the advanced capabilities of the Mix Transformer, our model offers improved accuracy and reliability over traditional methods, thereby enhancing the diagnostic workflow and contributing to the broader research community's efforts to understand and treat neurological disorders more effectively.
+
+## Reference:
+
+Xie, E., Wang, W., Yu, Z., Anandkumar, A., Alvarez, J. M., & Luo, P. (2021). SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers. arXiv:2105.15203. https://arxiv.org/pdf/2105.15203.pdf
+
